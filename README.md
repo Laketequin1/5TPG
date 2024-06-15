@@ -4,8 +4,7 @@ Instructions:
   Unzip the archive, and then launch the game!
 
 Controls:
-  WASD  - Move
-  Mouse - Aim
-  Space - PUSH
-
-  Esc   - Pause
+- WASD  - Move
+- Mouse - Aim
+- Space - PUSH
+- Esc   - Pause
